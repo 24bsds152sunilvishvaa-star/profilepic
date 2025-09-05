@@ -1,1 +1,6 @@
+my-website/
+│
+├── index.html
+└── images/
+    └── mypic.jpg.jpg
 
